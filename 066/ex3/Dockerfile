@@ -1,1 +1,1 @@
-FROM node:latest
+FROM node:23.11.0-bookworm-slim
