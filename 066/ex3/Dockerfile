@@ -1,1 +1,3 @@
-FROM node:23.11.0-bookworm-slim
+
+node:24.3.0-bookworm
+
